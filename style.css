@@ -7,10 +7,6 @@ body {
     font-size: 18px;
   }
   
-  .content .body {
-    margin: 0px auto;
-  }
-  
   a {
     text-decoration: none;
   }
@@ -19,8 +15,6 @@ body {
   
   nav {
     text-align: center;
-    width: 180px;
-    margin: 0 auto;
   }
   
   nav img {
@@ -32,7 +26,6 @@ body {
     font-size: 16px;
     font-weight: 100;
     letter-spacing: 2px;
-    margin: 10px 0px;
   }
   
   nav a {
@@ -43,9 +36,6 @@ body {
   
   .content {
     width: 100%;
-    height: 500px;
-    margin: 10px auto;
-    overflow: scroll;
   }
   
   /* Content Header */
@@ -54,7 +44,6 @@ body {
     background-image: url("https://content.codecademy.com/courses/web-101/unit-6/htmlcss1-img_burgerphoto.jpeg");
     background-position: center;
     background-size: cover;
-    height: 320px;
   }
   
   .header h1 {
@@ -65,8 +54,6 @@ body {
     font-weight: 300;
     line-height: 40px;
     width: 68%;
-    padding: 20px;
-    margin: 0px auto;
   }
   
   /* Content Body */
@@ -90,10 +77,6 @@ body {
     color: #05A8AA;
     display: block;
     font-weight: 700;
-    width: 200px;
-    padding: 20px;
-    margin: 40px auto;
-    border: 1px solid aqua;
   }
   
   .button:hover {
@@ -105,16 +88,12 @@ body {
   /* Content Nutrition */
   
   ul.nutrition {
-    padding: 20px;
   }
   
   ul.nutrition li {
     display: inline-block;
     background-color: #05A8AA;
     list-style: none;
-    width: 200px;
-    padding: 10px 20px;
-    margin-bottom: 3px;
   }
   
   .nutrition .category {
