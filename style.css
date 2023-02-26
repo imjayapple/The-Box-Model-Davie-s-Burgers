@@ -29,6 +29,7 @@ body {
     font-weight: 100;
     letter-spacing: 2px;
     margin: 10px 0px;
+    border: 2px solid #05A8AA;
   }
   
   nav a {
